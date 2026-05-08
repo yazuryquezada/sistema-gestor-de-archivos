@@ -85,7 +85,7 @@ Actualmente este sistema está siendo utilizado en una empresa privada para la a
 
 Sistema seguro de autenticación con control de acceso por roles.
 
-<img src="assets/login.png" width="100%">
+<img src="assets/ga.png" width="100%">
 
 ---
 
