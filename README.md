@@ -1,3 +1,16 @@
+
+<p align="center">
+  <img src="assets/logo.png" width="320">
+</p>
+
+<h3 align="center">SYQ • Soluciones Digitales</h3>
+
+<p align="center">
+Marca digital enfocada en el desarrollo de sistemas web modernos, funcionales y adaptables a las necesidades de empresas e instituciones.
+</p>
+
+<br>
+
 # 📁 Sistema Gestor de Archivos
 
 Plataforma web desarrollada para la administración, organización y gestión segura de archivos empresariales.
