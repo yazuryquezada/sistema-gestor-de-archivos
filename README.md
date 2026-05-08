@@ -11,13 +11,26 @@ Marca digital enfocada en el desarrollo de sistemas web modernos, funcionales y 
 
 <br>
 
-# 📁 Sistema Gestor de Archivos
+<h1 align="center">📁 Sistema Gestor de Archivos</h1>
 
+<p align="center">
 Plataforma web desarrollada para la administración, organización y gestión segura de archivos empresariales.
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-Finalizado-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Licencia-Privada-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Responsive-Sí-blue?style=for-the-badge">
+</p>
+
+<br>
 
 <img width="1919" height="874" alt="image" src="assets/ga.png" />
 
 ---
+<br>
 
 ## ✨ Características Principales
 
@@ -32,6 +45,18 @@ Plataforma web desarrollada para la administración, organización y gestión se
 - 📄 Visualización de documentos directamente desde la plataforma
 
 ---
+<br>
+
+## 🚀 Beneficios
+
+- Optimiza la organización documental empresarial
+- Reduce el uso de documentos físicos
+- Facilita el acceso rápido a archivos
+- Mejora el control y seguridad documental
+- Permite compartir archivos de manera eficiente
+
+---
+<br>
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -45,12 +70,14 @@ Plataforma web desarrollada para la administración, organización y gestión se
 </p>
 
 ---
+<br>
 
 ## 🌍 Implementación en Entorno Real
 
 Actualmente este sistema está siendo utilizado en una empresa privada para la administración y organización de archivos internos.
 
 ---
+<br>
 
 ## 📸 Funcionalidades del Sistema
 
@@ -67,12 +94,14 @@ Permite compartir documentos mediante correo electrónico con notificaciones aut
 Interfaz adaptable a computadoras, tablets y dispositivos móviles.
 
 ---
+<br>
 
 ## ⚠️ Aviso
 
 El código fuente de este sistema no se encuentra disponible públicamente debido a que la licencia del software se encuentra actualmente en proceso de comercialización y venta.
 
 ---
+<br>
 
 ## 📩 Contacto
 
@@ -87,4 +116,6 @@ https://www.linkedin.com/in/yazuryquezada
 
 ---
 
-© Yazury Quezada - Todos los derechos reservados.
+<p align="center">
+✨ Desarrollado por SYQ • Soluciones Digitales
+</p>
