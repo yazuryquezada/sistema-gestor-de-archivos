@@ -82,16 +82,34 @@ Actualmente este sistema está siendo utilizado en una empresa privada para la a
 ## 📸 Funcionalidades del Sistema
 
 ### 🔐 Inicio de Sesión
+
 Sistema seguro de autenticación con control de acceso por roles.
 
+<img src="assets/login.png" width="100%">
+
+---
+
 ### 📂 Gestión de Archivos
+
 Administración de archivos y carpetas empresariales desde una única plataforma.
 
+<img src="assets/dasboard.png" width="100%">
+
+---
+
 ### 📧 Compartir Archivos
+
 Permite compartir documentos mediante correo electrónico con notificaciones automáticas.
 
+<img src="assets/compartir.png" width="100%">
+
+---
+
 ### 📱 Diseño Responsive
+
 Interfaz adaptable a computadoras, tablets y dispositivos móviles.
+
+<img src="assets/responsive.png" width="100%">
 
 ---
 <br>
