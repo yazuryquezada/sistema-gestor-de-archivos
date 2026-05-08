@@ -15,7 +15,7 @@ Marca digital enfocada en el desarrollo de sistemas web modernos, funcionales y 
 
 Plataforma web desarrollada para la administración, organización y gestión segura de archivos empresariales.
 
-<img width="1919" height="874" alt="image" src="https://github.com/user-attachments/assets/33cc2e7f-3b5b-4d88-9b44-f3e6afcc67bc" />
+<img width="1919" height="874" alt="image" src="assets/ga.png" />
 
 ---
 
