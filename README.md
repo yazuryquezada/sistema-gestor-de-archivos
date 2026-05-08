@@ -27,7 +27,7 @@ Plataforma web desarrollada para la administración, organización y gestión se
 
 <br>
 
-<img width="1919" height="874" alt="image" src="assets/ga.png" />
+<img width="1919" height="874" alt="image" src="assets/logo_ga.png" />
 
 ---
 <br>
